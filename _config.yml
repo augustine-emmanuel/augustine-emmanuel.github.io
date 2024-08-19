@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: A.C.E # the main title
+title: Augustine C. Emmanuel # the main title
 
-tagline: _DataCamp Certified Data Analyst | Associate Data Scientist | BSc Biochemistry | MSc Bioinformatics and Molecular Biology_ # it will display as the sub-title
+tagline: Certified Data Analyst | Associate Data Scientist | BSc Biochemistry | MSc Bioinformatics and Molecular Biology_ # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   I am a passionate data professional with a strong foundation in biochemistry and bioinformatics. With proficiency in SQL, Python, and Bash scripting, I bring a data-driven approach to solving complex problems in the health and business sectors. My goal is to leverage data to drive decision-making that improves outcomes and transforms industries. Currently, I am completing my MSc in Bioinformatics and Molecular Biology, where I apply cutting-edge computational techniques to advance the field of molecular biology.
