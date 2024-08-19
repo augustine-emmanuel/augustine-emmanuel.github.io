@@ -13,4 +13,3 @@ My expertise lies in building machine learning and deep learning models, with a 
 I am always open to collaborations and new opportunities that push the boundaries of data science and analysis.
 
 **Let's work together to unlock the full potential of your data.**
-![badge](<_site/assets/img/DS Associate - badge with outline.png>)
