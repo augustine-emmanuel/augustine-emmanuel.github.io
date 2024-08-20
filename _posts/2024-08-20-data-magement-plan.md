@@ -1,7 +1,7 @@
 ---
-title: Drafting Your Data Management Plan
-categories: [Research, Data Management]
-tags: [DMP, data management, research planning]
+title: Data Management Plan
+categories: [RESEARCH, DATA MANAGEMENT]
+tags: [data management, research planning]
 author: emma
 ---
 
