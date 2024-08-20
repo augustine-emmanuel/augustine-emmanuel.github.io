@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My New Post
+title: Data Management Plan
 date: 2024-08-20 21:03 +0100
 author: emma
 ---
