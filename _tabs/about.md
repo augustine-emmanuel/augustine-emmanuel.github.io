@@ -9,7 +9,7 @@ I hold a BSc in Biochemistry and an MTech in Bioinformatics and Molecular Biolog
 
 My expertise lies in building machine learning and deep learning models, with a focus on transforming raw data into actionable intelligence. I am deeply committed to harnessing the power of data to inform decisions, optimize processes, and create sustainable growth.
 
-Check my [DataCamp Portfolio](https://www.datacamp.com/portfolio/augustinecemmanuel) where I have completed over 30 related to Data Science, experimental design, machine learning and deep learning and and over 10 projects in various areas of Data Science.
+Check my [DataCamp Portfolio](https://www.datacamp.com/portfolio/augustinecemmanuel) where I have completed a combined 40+ courses and projects related to Data Science, experimental design, machine learning and deep learning.
 
 I am always open to collaborations and new opportunities that push the boundaries of data science and analysis.
 
