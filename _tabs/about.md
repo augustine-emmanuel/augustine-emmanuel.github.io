@@ -5,7 +5,7 @@ order: 1
 ---
 
 
-I hold a BSc in Biochemistry and an MTech in Bioinformatics and Molecular Biology, with a strong passion for leveraging data to drive impactful insights and growth. As a certified Data Analyst and Data Scientist, I possess extensive experience in data manipulation, analysis, and visualization, utilizing tools such as Python, Power BI, Excel, SQL, and Bash scripts.
+I hold a BSc in Biochemistry and an MTech in Bioinformatics and Molecular Biology, I leverage data to drive insights and stimulate organisational growth. As a certified Data Analyst and Data Scientist, I possess extensive experience in data manipulation, analysis, and visualization, utilizing tools such as Python, Power BI, Excel, SQL, and Bash scripts.
 
 My expertise lies in building machine learning and deep learning models, with a focus on transforming raw data into actionable intelligence. I am deeply committed to harnessing the power of data to inform decisions, optimize processes, and create sustainable growth.
 
