@@ -38,5 +38,3 @@ if file_uploaded is not None:
 
 
 
-st.map
-
